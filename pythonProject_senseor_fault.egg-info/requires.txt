@@ -1,0 +1,9 @@
+pandas~=1.5.3
+six
+setuptools~=67.8.0
+pymongo[srv]
+jsonschema==3.2.0
+dnspython
+confluent-kafka[avro,json,protobuf]
+pyspark==3.2.1
+requests

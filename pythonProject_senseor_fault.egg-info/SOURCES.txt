@@ -1,0 +1,7 @@
+README.txt
+setup.py
+pythonProject_senseor_fault.egg-info/PKG-INFO
+pythonProject_senseor_fault.egg-info/SOURCES.txt
+pythonProject_senseor_fault.egg-info/dependency_links.txt
+pythonProject_senseor_fault.egg-info/requires.txt
+pythonProject_senseor_fault.egg-info/top_level.txt
